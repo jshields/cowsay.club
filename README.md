@@ -3,7 +3,7 @@
 ## Example usages:
 * Default: [http://cowsay.club/](http://cowsay.club/)
 * With custom text: [http://cowsay.club/?Hello%20World](http://cowsay.club/?Hello%20World)
-* With custom text and eyes: [http://cowsay.club/?Now we're talking&eyes=**](http://cowsay.club/?Now we're talking&eyes=**)
+* With custom text and eyes: [http://cowsay.club/?Now%20we%27re%20talking&eyes=\*\*](http://cowsay.club/?Now%20we%27re%20talking&eyes=\*\*)
 * With custom eyes and super cow powers: [http://cowsay.club/?eyes=XX&apt-get=moo](http://cowsay.club/?eyes=XX&apt-get=moo)
 
 
