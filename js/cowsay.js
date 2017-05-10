@@ -36,7 +36,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_liter
         }
 
         var say = args.defaultArg || args.say || defaultSay;
-        // TODO support alias `e`
         var eyes = args.eyes || 'oo';
 
 

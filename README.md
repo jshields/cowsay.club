@@ -8,7 +8,8 @@
 
 
 TODO:
-favicon
-expand text box according to content
-allow editing of the text once it has been loaded from query string
-use a template format that is more clear to read
+* favicon
+* support alias `e` for eyes
+* expand text box according to content
+* allow editing of the text once it has been loaded from query string
+* use a template format that is more clear to read
