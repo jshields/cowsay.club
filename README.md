@@ -6,6 +6,8 @@
 * With custom text and eyes: [http://cowsay.club/?Now%20we%27re%20talking&eyes=\*\*](http://cowsay.club/?Now%20we%27re%20talking&eyes=\*\*)
 * With custom eyes and super cow powers: [http://cowsay.club/?eyes=XX&apt-get=moo](http://cowsay.club/?eyes=XX&apt-get=moo)
 
+## Compatibility:
+Chrome, Firefox
 
 TODO:
 * favicon
