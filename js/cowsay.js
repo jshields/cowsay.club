@@ -40,9 +40,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_liter
 
 
         var cowsay = (
-            ' ______\n' +
+            ' _' + ('_'.repeat(say.length)) + '_\n' +
             '< ' + say + ' >\n' +
-            ' ------\n' +
+            ' -' + ('-'.repeat(say.length)) + '-\n' +
             '        \\   ^__^\n' +
             '         \\  (' + eyes + ')\\_______\n' +
             '            (__)\\       )\\/\\\n' +
