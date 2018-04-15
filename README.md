@@ -1,17 +1,12 @@
 # cowsay for web
 
+A thing I made as a joke
+
 ## Example usages:
-* Default: [http://cowsay.club/](http://cowsay.club/)
-* With custom text: [http://cowsay.club/?Hello%20World](http://cowsay.club/?Hello%20World)
-* With custom text and eyes: [http://cowsay.club/?Now%20we%27re%20talking&eyes=\*\*](http://cowsay.club/?Now%20we%27re%20talking&eyes=\*\*)
-* With custom eyes and super cow powers: [http://cowsay.club/?eyes=XX&apt-get=moo](http://cowsay.club/?eyes=XX&apt-get=moo)
+* Default: [https://jshields.github.io/cowsay.club/](https://jshields.github.io/cowsay.club/)
+* With custom text: [https://jshields.github.io/cowsay.club/?Hello%20World](https://jshields.github.io/cowsay.club/?Hello%20World)
+* With custom text and eyes: [https://jshields.github.io/cowsay.club/?Now%20we%27re%20talking&eyes=\*\*](https://jshields.github.io/cowsay.club/?Now%20we%27re%20talking&eyes=\*\*)
+* With custom eyes and super cow powers: [https://jshields.github.io/cowsay.club/?eyes=XX&apt-get=moo](https://jshields.github.io/cowsay.club/?eyes=XX&apt-get=moo)
 
 ## Compatibility:
 Chrome, Firefox
-
-TODO:
-* favicon
-* support alias `e` for eyes
-* cowthink option
-* allow editing of the text once it has been loaded from query string
-* use a template format that is more clear to read
